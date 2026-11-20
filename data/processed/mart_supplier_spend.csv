@@ -1,0 +1,9 @@
+supplier_id,supplier_name,po_lines,po_count,products_supplied,total_spend_pkr,share_pct
+SUP-04,Noor Oil Mills,27,27,6,6852460,20.99
+SUP-05,Lahore Pulses Traders,32,32,7,5554250,17.02
+SUP-07,Chaman Tea Traders,18,18,4,4529670,13.88
+SUP-06,Shahi Masala Traders,27,27,6,4320830,13.24
+SUP-01,Punjab Rice Mills,23,23,5,3986720,12.21
+SUP-02,Al-Noor Flour Mills,22,22,5,2739300,8.39
+SUP-03,Ravi Sugar Traders,18,18,4,2500280,7.66
+SUP-08,City Household Distributors,13,13,3,2156790,6.61

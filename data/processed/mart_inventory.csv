@@ -1,0 +1,41 @@
+product_code,product_name,category,supplier_id,purchased_qty,sold_qty,stock_qty,stock_value_pkr,stock_status
+PRD-001,Basmati Rice 1121 (25 kg bag),Rice & Grains,SUP-01,164,114,50,360000,OK
+PRD-002,Basmati Rice Super Kernel (25 kg bag),Rice & Grains,SUP-01,141,110,31,210800,OK
+PRD-003,Irri Rice (25 kg bag),Rice & Grains,SUP-01,184,137,47,183300,OK
+PRD-004,Broken Rice (25 kg bag),Rice & Grains,SUP-01,166,141,25,72500,OK
+PRD-005,Brown Rice (10 kg bag),Rice & Grains,SUP-01,208,147,61,189100,OK
+PRD-006,Chakki Atta (10 kg bag),Flour & Atta,SUP-02,350,252,98,112700,OK
+PRD-007,Chakki Atta (20 kg bag),Flour & Atta,SUP-02,585,420,165,371250,OK
+PRD-008,Fine Maida (10 kg bag),Flour & Atta,SUP-02,366,269,97,121250,OK
+PRD-009,Besan / Gram Flour (5 kg bag),Flour & Atta,SUP-02,347,301,46,45080,OK
+PRD-010,Suji / Semolina (5 kg bag),Flour & Atta,SUP-02,331,242,89,64080,OK
+PRD-011,White Sugar (50 kg bag),Sugar & Sweeteners,SUP-03,197,144,53,413400,OK
+PRD-012,White Sugar (10 kg bag),Sugar & Sweeteners,SUP-03,342,241,101,163620,OK
+PRD-013,Brown Sugar / Shakkar (5 kg),Sugar & Sweeteners,SUP-03,243,203,40,35600,OK
+PRD-014,Gur / Jaggery (5 kg),Sugar & Sweeteners,SUP-03,258,211,47,35720,OK
+PRD-015,Cooking Oil (16 L tin),Cooking Oil & Ghee,SUP-04,246,178,68,669800,OK
+PRD-016,Cooking Oil (5 L),Cooking Oil & Ghee,SUP-04,151,129,22,69300,OK
+PRD-017,Cooking Oil (1 L x 12 pack),Cooking Oil & Ghee,SUP-04,126,89,37,255300,OK
+PRD-018,Banaspati Ghee (16 kg tin),Cooking Oil & Ghee,SUP-04,139,113,26,239200,OK
+PRD-019,Banaspati Ghee (5 kg),Cooking Oil & Ghee,SUP-04,115,88,27,79650,OK
+PRD-020,Mustard Oil (5 L),Cooking Oil & Ghee,SUP-04,546,398,148,392200,OK
+PRD-021,Chana Dal (25 kg bag),Pulses & Lentils,SUP-05,245,182,63,340200,OK
+PRD-022,Masoor Dal (25 kg bag),Pulses & Lentils,SUP-05,126,106,20,122000,OK
+PRD-023,Moong Dal (25 kg bag),Pulses & Lentils,SUP-05,86,70,16,92800,OK
+PRD-024,Mash Dal (10 kg bag),Pulses & Lentils,SUP-05,117,85,32,92800,OK
+PRD-025,Arhar / Toor Dal (10 kg bag),Pulses & Lentils,SUP-05,115,99,16,44000,OK
+PRD-026,White Chana (25 kg bag),Pulses & Lentils,SUP-05,127,109,18,124200,OK
+PRD-027,Red Beans / Lobia (10 kg bag),Pulses & Lentils,SUP-05,571,412,159,389550,OK
+PRD-028,Red Chilli Powder (5 kg),Spices & Masala,SUP-06,167,131,36,122400,OK
+PRD-029,Turmeric Powder (5 kg),Spices & Masala,SUP-06,433,303,130,273000,OK
+PRD-030,Coriander Powder (5 kg),Spices & Masala,SUP-06,299,251,48,88800,OK
+PRD-031,Garam Masala (5 kg),Spices & Masala,SUP-06,159,110,49,205800,OK
+PRD-032,Cumin Seeds (5 kg),Spices & Masala,SUP-06,223,155,68,353600,OK
+PRD-033,Black Pepper (1 kg),Spices & Masala,SUP-06,164,116,48,141600,OK
+PRD-034,Black Tea (10 kg),Tea & Beverages,SUP-07,179,146,33,290400,OK
+PRD-035,Black Tea (5 kg),Tea & Beverages,SUP-07,205,177,28,126000,OK
+PRD-036,Green Tea (1 kg),Tea & Beverages,SUP-07,680,529,151,362400,OK
+PRD-037,Tea Whitener (5 kg),Tea & Beverages,SUP-07,127,93,34,105400,OK
+PRD-038,Washing Powder (10 kg),Household & Cleaning,SUP-08,437,368,69,162150,OK
+PRD-039,Dishwash Bar (pack of 12),Household & Cleaning,SUP-08,309,247,62,71300,OK
+PRD-040,Bath Soap (pack of 24),Household & Cleaning,SUP-08,381,314,67,132660,OK

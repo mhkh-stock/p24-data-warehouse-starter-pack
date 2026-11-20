@@ -1,0 +1,102 @@
+{
+  "passed": 16,
+  "total": 16,
+  "tests": [
+    {
+      "test": "t01_raw_duplicate_lines.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t02_raw_nonpositive_qty.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t03_raw_unknown_product.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t04_raw_wrong_line_total.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t05_stg_no_duplicates.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t06_stg_positive_qty.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t07_stg_product_exists.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t08_stg_totals_correct.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t09_fact_grain.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t10_fact_no_null_keys.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t11_fact_totals_reconcile.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t12_dim_date_coverage.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t13_dim_product_scd_type1.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t14_fact_no_stale_dates.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t15_inventory_nonnegative.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    },
+    {
+      "test": "t16_fact_purchases_reconcile.sql",
+      "status": "PASS",
+      "violations": 0,
+      "detail": []
+    }
+  ]
+}
